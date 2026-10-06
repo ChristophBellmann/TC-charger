@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: TC Charger CAN Control
+  structure:
+    - type: space
+      key: tc-charger-can-control
+      title: TC Charger CAN Control
+      path: docs
+      default: true
+      content:
+        directory: ./docs
